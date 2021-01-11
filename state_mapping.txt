@@ -1,0 +1,4 @@
+state,statecode
+Karnataka,KA
+TamilNadu,TN
+Kerala,KL
